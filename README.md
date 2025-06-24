@@ -97,7 +97,7 @@ catch (InputMismatchException e) {
 ## 📸 Capturas del Funcionamiento  
 
 
-```markdown
+```
 - 📋 Menú principal
 ```
 -   >
