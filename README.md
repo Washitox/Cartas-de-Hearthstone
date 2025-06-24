@@ -99,34 +99,43 @@ catch (InputMismatchException e) {
 
 ```markdown
 - 📋 Menú principal
+```
 -   >
 
 ![image](https://github.com/user-attachments/assets/c0218a76-05cc-4799-a172-0de6f4173099)
 
     >
+```
 - 📝 Registro exitoso de una carta
+```
 -   >
 
 ![image](https://github.com/user-attachments/assets/c9370236-0f60-4528-ba64-20da29de8832)
 
     >
+```
 - ❌ Error por ingreso de letras en lugar de números
 -   >
+```
 
 ![image](https://github.com/user-attachments/assets/a0e3b948-9e43-4e36-a506-d97d38b2ae6c)
 
     >  
+```
 - 🔢 Visualización del total de cartas
+```
 -   >
 
 ![image](https://github.com/user-attachments/assets/95be16ee-6570-4622-9f98-1f02406c457b)
 
     >
+```
 - 📦 Listado con cantidad de cartas repetidas
+```
 -   >
 
 ![image](https://github.com/user-attachments/assets/7238b397-fc95-4232-b7d0-a972247699a5)
 
     >
-```
+
 
